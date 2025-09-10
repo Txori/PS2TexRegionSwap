@@ -1,1 +1,704 @@
-
+{
+  "c4f6a51e73cbde03-fbf5f3ebed6b278a-00002654": {
+    "label": "Colossus I - II - IV - IX",
+    "EN": "6ee3d4538eefc57c-6f5f3d9a79d0003a-00006654",
+    "ES": "fb355c9a1043f31b-dbaf913e6ae3cb8c-00006654",
+    "FR": "e9dd94e309aa8771-69f36698404353f5-00006654",
+    "DE": "f1e0ebf69e08eacc-2c55b5bba193dabd-00006654",
+    "IT": "16bc21380cf93a33-d38755bd3ad0e041-00006654",
+    "skip": false
+  },
+  "4c717dcec3201450-71ca29b21f58d0de-00002654": {
+    "label": "Colossus V - XI - VI - X",
+    "EN": "b2c4a398d4e44a86-aecf384af86ce2fc-00006654",
+    "ES": "11873fbe5921a7fb-e167936662a8bf0c-00006654",
+    "FR": "bb94425463353881-b4728975694bae8b-00006654",
+    "DE": "ee7e46494c277581-49546358e2e30e57-00006654",
+    "IT": "7509899a29868de-1af2a3cba6f247f1-00006654",
+    "skip": false
+  },
+  "f75b4c85e3f0a616-60d66af1289fad18-00002654": {
+    "label": "Colossus VII - III - XIII - VIII",
+    "EN": "386414b3222cd1e1-270b623e6f095cba-00006654",
+    "ES": "68600e64668cb606-7677eda6b132dc53-00006654",
+    "FR": "d3418e7fbb2a4309-51f95a1508a255fa-00006654",
+    "DE": "39717f9db7b8236f-a1caa460591c61eb-00006654",
+    "IT": "23b4aa7191fac825-541cca8d79bdb528-00006654",
+    "skip": false
+  },
+  "a4803363474e1ffc-a3934f699710a5d2-00002654": {
+    "label": "Colossus XII - XIV - XV",
+    "EN": "fb94dd510872c5ce-fcfa70e85738c60a-00006654",
+    "ES": "4ddf3c696dd279a0-d0497dfc514077f3-00006654",
+    "FR": "cc319049c7fbcd6-63e3232ba09b5629-00006654",
+    "DE": "f29ed3fe2da3243-856c814b5278c9f-00006654",
+    "IT": "b637974e07525d92-aabf4648090bc930-00006654",
+    "skip": false
+  },
+  "25551856eb12f14c-b1c0d09645603c1c-00002654": {
+    "label": "Colossus XVI",
+    "EN": "7475fa6ec2487403-4da48de3afa6c6fd-00006654",
+    "ES": "9b1324fec0ef3897-99c3ca93c06680e5-00006654",
+    "FR": "204900ad2e0aecaf-f1506cd25f0aeb90-00006654",
+    "DE": "f2414d454986a9aa-44a5302b2c06ee08-00006654",
+    "IT": "b6dd5db8ccac3671-f32ced706a50982f-00006654",
+    "skip": false
+  },
+  "fa5245e1ac95077f-2dbc361055c7153f-00002654": {
+    "label": "Cutscenes 01",
+    "EN": "cd54e49f8073fd4-dbff98bfdf6b64cd-00006654",
+    "ES": "1bcd56fc68770b10-935760008204bb3c-00006654",
+    "FR": "21a418e7f13a7f49-87d58a94b2b28551-00006654",
+    "DE": "56882dd5cb7610ff-16bf44e029906c32-00006654",
+    "IT": "d3a097cc2a678ce5-37933ca14b04ee1-00006654",
+    "skip": false
+  },
+  "2881f4578f4230e9-3c830abb9b510e1a-00002654": {
+    "label": "Cutscenes 02",
+    "EN": "d103eeb85aed2910-d4129844b65219f9-00006654",
+    "ES": "1c3824e0f4bb8b31-1fd02ef80afffdd4-00006654",
+    "FR": "750f8c2d8bb6112-c9f904677e6adc84-00006654",
+    "DE": "aa09c9037bb7a4e6-5739fec27372080d-00006654",
+    "IT": "27a03680735c9edd-51d0131c5612b095-00006654",
+    "skip": false
+  },
+  "e21cbc980c9d94de-df283b7f2e7f7eb0-00002654": {
+    "label": "Cutscenes 03",
+    "EN": "b6862be7fa93383c-e1a3981fa617d35d-00006654",
+    "ES": "4539e8da533d77d0-a6bdb2bc6b4f3f7f-00006654",
+    "FR": "e2787610fe97cf2a-9e270cb5aed86f41-00006654",
+    "DE": "db88165bc3649efa-48173ece36a845ef-00006654",
+    "IT": "bfc9b344d42f9e10-4158c5185e3f50aa-00006654",
+    "skip": false
+  },
+  "7e9c9877263521f3-cc727b1e48a3103f-00002654": {
+    "label": "Cutscenes 04",
+    "EN": "8199097dc399b6d0-21cc62af8a1cf7b6-00006654",
+    "ES": "984bcc64ff20c2e4-e30471ad7c43491a-00006654",
+    "FR": "7d2dcb04066469f8-e1d2f5bd068b5bd4-00006654",
+    "DE": "b6356faefa3aa817-c4cce3ee81b3ef49-00006654",
+    "IT": "ffd5e6dafbdd6ca9-6c07b322c8137068-00006654",
+    "skip": false
+  },
+  "ae2ed9522608f620-1b20c134f2bed0a7-00002654": {
+    "label": "Cutscenes 05",
+    "EN": "4ef6a229e538bc4e-4dcc71bb368e0ef2-00006654",
+    "ES": "fb833c170aaac94e-136d3262eb6a233e-00006654",
+    "FR": "b7dd1b054c8b52a0-51aa94a16ecaaf7c-00006654",
+    "DE": "59bb1062785e5d44-a3587bd9d2645926-00006654",
+    "IT": "e4533e085e0483ef-13835a08bba1433e-00006654",
+    "skip": false
+  },
+  "b9329c2d3aca95ee-55e9a7e61105a1c1-00002654": {
+    "label": "Cutscenes 06",
+    "EN": "9987ec919b2126f-a3e50d36cad53f48-00006654",
+    "ES": "66ae5b914b673989-24aa7ea3cd4083ef-00006654",
+    "FR": "dc05ed6f44c4ff04-a6e241f887f9ffea-00006654",
+    "DE": "21df7e7fb0fc4604-e7510a304ded1153-00006654",
+    "IT": "aeebde6d4fa6c3b3-703f9736220d4154-00006654",
+    "skip": false
+  },
+  "7111c85b10c2ac10-ce2c5c836af32349-00002654": {
+    "label": "Cutscenes 07",
+    "EN": "e29d50b4a35186-cf6b5a67122e9dc4-00006654",
+    "ES": "8840c7311e116530-c0b03792c65d8fa0-00006654",
+    "FR": "7c6e3f0fd83e9ce7-1f26192196e7abcd-00006654",
+    "DE": "88710f2cf15266df-2626555db5a7ae17-00006654",
+    "IT": "efd379d7d4e92d75-6844d50fbb8fffdc-00006654",
+    "skip": false
+  },
+  "be8d4dd548b324e3-372289e5c9036a8c-00002654": {
+    "label": "Cutscenes 08",
+    "EN": "32b6297a9221b61b-8f5a4d49e8ce50d-00006654",
+    "ES": "dc1cd0031a4bc58f-413775d373aff363-00006654",
+    "FR": "14949e775bb501fa-5539ea314e5a5e3b-00006654",
+    "DE": "ce31db28f06c6df4-be8f757a199950d4-00006654",
+    "IT": "af859d2ccd451c2d-816ed73300be8f4f-00006654",
+    "skip": false
+  },
+  "4b64f14e10c35ef1-680234d2cb788e6e-00002654": {
+    "label": "Cutscenes 09",
+    "EN": "90ceee5f47e958e5-a6b538569c3bf54c-00006654",
+    "ES": "91cb211909b712ff-31b58ce96b3e4435-00006654",
+    "FR": "7bcc682c25ecf4d7-2745e4fab5dbedde-00006654",
+    "DE": "f4dad7c5142b279a-defabc3c66ba312e-00006654",
+    "IT": "e7a5a2d0f42cb364-494d0f16978391c3-00006654",
+    "skip": false
+  },
+  "4edde67e85f677f6-ff163d1eec1e8b8c-00002654": {
+    "label": "Cutscenes 10",
+    "EN": "45e58d0e04cd4658-10727e16dee7f05e-00006654",
+    "ES": "b1613c7a68dad171-8568d6959cd67e2f-00006654",
+    "FR": "ced44cd71d5f5a0-d79bc505d8a564ad-00006654",
+    "DE": "45bc5bdf65b0f0f7-d0b4e5fba1326e8-00006654",
+    "IT": "c97a877b31ea1c12-82364cefecff639c-00006654",
+    "skip": false
+  },
+  "b10e3005eee0723b-43cd8479259a791d-00002654": {
+    "label": "Cutscenes 11",
+    "EN": "80af880aa23c359a-870875f30dd9ddb8-00006654",
+    "ES": "5ce894c55aaa8afc-2cf6bb1d052bfd42-00006654",
+    "FR": "1103191e447bf2aa-b147bf77794d8b3e-00006654",
+    "DE": "7948b28beb53d524-820c31d1d63d2c22-00006654",
+    "IT": "8842fc96805ccf3d-23738bcc65ddfe82-00006654",
+    "skip": false
+  },
+  "60493c527c86ddd7-4f0404c917daaa48-00002654": {
+    "label": "Cutscenes 12",
+    "EN": "800ef095cda5b2d4-5bb4ea38ba737025-00006654",
+    "ES": "a27c200836d6f706-d96fdc1fb1c30878-00006654",
+    "FR": "7b06bcbc0f7a4cc3-dfde59dfd9d679ef-00006654",
+    "DE": "1189197364e1eafd-18903c3f931ee29-00006654",
+    "IT": "5d66c1262aa8c37b-e0f1f4af1e69904a-00006654",
+    "skip": false
+  },
+  "1e38258a42414ed8-f9ee9b5ee4807915-00001594": {
+    "label": "END",
+    "EN": "8d31a252ffff2ebc-d2467634ca6058a2-00005594",
+    "ES": "c8b7c4fd6da34a81-72c72df7be9124d5-00005594",
+    "FR": "5629c5ec8d892c80-17cd249f8f8cae8-00005594",
+    "DE": "6e150527d124eef2-7fd51ed55e3bbd2e-00005594",
+    "IT": "7c2b4952847e2220-27a6f921f2d328cb-00005594",
+    "skip": false
+  },
+  "1006caa8c8939efa-ec3819b6afb7d6e3-00002654": {
+    "label": "Hints",
+    "EN": "4db6698c00b93edd-7434f5492ee743e0-00006654",
+    "ES": "f8bdbe663ba6c7f8-42010cc9ff786863-00006654",
+    "FR": "d0de73ebee3e1351-a5d0182025eb1382-00006654",
+    "DE": "a4054df157c9979e-4e9a25f118aac982-00006654",
+    "IT": "e0387547524d4854-75fcf76bee0462d0-00006654",
+    "skip": false
+  },
+  "92937335f0c3363d-71a2325feb594910-00002654": {
+    "label": "Hints",
+    "EN": "63fe24bda1aa3b32-57dfcce79562c227-00006654",
+    "ES": "328292069eafbfc2-b6f779e625322e93-00006654",
+    "FR": "c4869c216004a703-81796aa9d11a3953-00006654",
+    "DE": "6e37a656aac9e42c-d545d533f674f3d7-00006654",
+    "IT": "9c80f44eea1712c2-bfd4f8652e407277-00006654",
+    "skip": false
+  },
+  "ece1c77393e41a36-20a7b5dd27c2bb7-00002654": {
+    "label": "Hints",
+    "EN": "e04e5f1201a4dba6-3fefda546637dba0-00006654",
+    "ES": "4d8806895bc94d80-aeb3335dede94ec5-00006654",
+    "FR": "1eace10e61cc19ac-e2dff813a448902-00006654",
+    "DE": "a92dafbd539f930b-a60a9bcf467a7d88-00006654",
+    "IT": "75f886ffbe07662-d248679d27e116b2-00006654",
+    "skip": false
+  },
+  "42d78bedbfbcf612-d5f490ed551e1c99-00002654": {
+    "label": "Hints (XII - XIII - XIV?)",
+    "EN": "a42a14b2ce92f11b-51a5e00c13d0e562-00006654",
+    "ES": "fc86859a22eac930-41ee1d1b6b188490-00006654",
+    "FR": "1d4928c931345f9a-5efc4219fa2e8bf7-00006654",
+    "DE": "5a01f0eac7663356-efa4f9172a573071-00006654",
+    "IT": "258675fd2175df80-f1787fcc7c1a0d10-00006654",
+    "skip": false
+  },
+  "958d55debfdd0c5b-1f3ca883f270571c-00002654": {
+    "label": "Hints XV - XVI",
+    "EN": "1531fb92a8f6d4cb-df4835bd28d33536-00006654",
+    "ES": "4c019d2f4b685d08-1d92cf3365457040-00006654",
+    "FR": "d66630a303ee1b16-e709896327fcdf80-00006654",
+    "DE": "4bea298473b4c977-ecc5a65566d00ece-00006654",
+    "IT": "c5e532f8451808e4-c30c458eca050325-00006654",
+    "skip": false
+  },
+  "b13c34dd789efb6b-db4dbfd7b62104dd-00001dd4": {
+    "label": "Intro Logo",
+    "EN": "7486a661b4fa57d3-f294f5a8d4f47a-00006653",
+    "ES": "1092c3539a4616ae-b0e6ad05e783ed13-00006653",
+    "FR": "92b42ca4b17fbfa2-228eff78f6c09afe-00006653",
+    "DE": "b7f58f1497287449-63c835f4f63557b1-00006653",
+    "IT": "220bad5847d23430-6bf47ed890ace28c-00006653",
+    "skip": false
+  },
+  "11e6f0c99b18982e-9de692bd3b0624f1-00002654": {
+    "label": "Items 1",
+    "EN": "5d0fa63b86d4df78-39e8339ed02e900b-00006654",
+    "ES": "ee976c75b7214c9a-f9e25499564b7222-00006654",
+    "FR": "3eb761ade66d5d8e-2b6651d57ec3d635-00006654",
+    "DE": "db21a27bda16f196-a61d60c36f4b2fe9-00006654",
+    "IT": "db25cb379b6cc468-66cc9ff9ec583745-00006654",
+    "skip": false
+  },
+  "57a0defeb9dc92da-b05f843556406cdf-00002654": {
+    "label": "Items 2",
+    "EN": "2ee04ca56cc16c5a-bb8a0a30c3d64d97-00006654",
+    "ES": "f23024273e35fd2d-c605c901f9c49768-00006654",
+    "FR": "a712760319ecc203-363faecdc19ed4c1-00006654",
+    "DE": "bccaa6ee8a1ea5-8ddc15f619a517ec-00006654",
+    "IT": "7f18c263a5380c6-2acb7960528668b9-00006654",
+    "skip": false
+  },
+  "2726aca294a2e5e8-b2a640589ed722a0-00002654": {
+    "label": "Items 3",
+    "EN": "2e3203139ed2570e-e258f96209d66df3-00006654",
+    "ES": "9c05c98991232995-2af0560518e1373c-00006654",
+    "FR": "5ad34ecc65bc99aa-818225ccab334e2a-00006654",
+    "DE": "665a7623300fc4bb-69dda202c802766b-00006654",
+    "IT": "379225ac230e1da7-7c99329d430700c9-00006654",
+    "skip": false
+  },
+  "5138aebdb1df618-1c35fe4ffdff781d-00002654": {
+    "label": "Items 4",
+    "EN": "81e25b17641ed970-6378c6d7a613ac33-00006654",
+    "ES": "be63c2bb837d04d4-42f69099ea6b09-00006654",
+    "FR": "5eee7e81438bcf17-24a06611146a4e85-00006654",
+    "DE": "3e0be10b5d50f870-349d4cf6b81448c0-00006654",
+    "IT": "1607ad1e665b8148-72f3d44d4f259a01-00006654",
+    "skip": false
+  },
+  "93757599f5eefe97-53be6a46913201da-00002654": {
+    "label": "Items 5",
+    "EN": "cb1707139fe8a07e-dd3047e951121cee-00006654",
+    "ES": "cd1347b60ae031ac-9a5b5ba7ca8833af-00006654",
+    "FR": "3159d583d681c6b1-ef8b45a589fb3887-00006654",
+    "DE": "489bb228707811b9-9a4f8a9151c95249-00006654",
+    "IT": "b7c1b32bd55b73a4-692d90d2c91358e1-00006654",
+    "skip": false
+  },
+  "4b3f8a72a530f1f1-855cd821acd66e1e-00002654": {
+    "label": "Items 6",
+    "EN": "e99b1d9abf5dee74-6c937fa3c4d29b56-00006654",
+    "ES": "9c8f7d8fec971770-e422aba2400a2844-00006654",
+    "FR": "14f03d957ada85bb-13f3efb6fa7f2266-00006654",
+    "DE": "8249b66ae5d5a557-90dcbd9d17ef00d0-00006654",
+    "IT": "2f26de785d5ad239-7af6f4ef79d0695c-00006654",
+    "skip": false
+  },
+  "4534db9e581ff446-d5c87f91896951e9-00002214": {
+    "label": "Locations",
+    "EN": "8b8688ede0e63490-d2467634ca6058a2-00006214",
+    "ES": "77d5f6f66599bb83-6d70ab7b2edc0d01-00006214",
+    "FR": "8e955fe7e77dcdd6-d2467634ca6058a2-00006214",
+    "DE": "da221e8d67c04905-9a9749969a3d142a-00006214",
+    "IT": "1f1043828fb2fef-d2467634ca6058a2-00006214",
+    "skip": true
+  },
+  "4064cf6395da278a-adce12a97b96fe37-00002214": {
+    "label": "Memory Card Format",
+    "EN": "4376028dee7df0da-94da287ca6ccc5f6-00006214",
+    "ES": "4a2dcfc777b8818b-e260f7eaad0781b3-00006214",
+    "FR": "1a4fe14af0973bfe-76fc509b59380a6e-00006214",
+    "DE": "721b4f31170f82ad-dfcd19c70f4c8d3f-00006214",
+    "IT": "23049dff63acc97b-240502da5ea6ea0a-00006214",
+    "skip": true
+  },
+  "7142dff5b9fcf329-7da2bd451cd7ba1-00002214": {
+    "label": "Memory Card Menu",
+    "EN": "9a06e22f5c39d77a-2cf0f94bec0d3bfc-00006214",
+    "ES": "3e2c6fa8328d8f23-266709a3613ab4af-00006214",
+    "FR": "1b3128f557c13450-4992aad08d480967-00006214",
+    "DE": "3a900eacb4f3d827-d9bf53e8f0c1b077-00006214",
+    "IT": "6159a5d2e9179e1a-85c8f964871efa50-00006214",
+    "skip": true
+  },
+  "83989216b9a3ad23-b45328120840d6df-00002214": {
+    "label": "Menu Items",
+    "EN": "d39bab698c591a09-695294e90fc23df5-00006214",
+    "ES": "ccfd8510aeb346a3-7997eafbb7e76ee5-00006214",
+    "FR": "1c7b74b9fdeecbd0-c852762139d8452c-00006214",
+    "DE": "ed4a1c6a69bfcd09-a6bf93bd1e5e5496-00006214",
+    "IT": "3fba85680d993d71-3902a8db8fe841f5-00006214",
+    "skip": true
+  },
+  "fb42466f0af9c80e-c0234e9d26c6b783-00002214": {
+    "label": "Menu Options",
+    "EN": "5d9ea4ed9c15fd7-47315772a8960355-00006214",
+    "ES": "10d2c0d5e6335bcc-555d8af8ebafa578-00006214",
+    "FR": "a0f29fc524e60f93-7fa2379ecac9bc5f-00006214",
+    "DE": "aa9b5ee583f06ed2-df88553a6aa700b1-00006214",
+    "IT": "d514a2df58f3235f-479994282134bc52-00006214",
+    "skip": true
+  },
+  "f3f2555eba1128a6-14688e16570acb-00001dd4": {
+    "label": "Menu Game Over",
+    "EN": "79bdce274d8a5399-bebe5d73dfa67346-00005dd4",
+    "ES": "5991ab8ff7e2c523-59133a81010367d8-00005dd4",
+    "FR": "a1650add7a6fdec8-ae65686f12ac3349-00005dd4",
+    "DE": "ef73dfd60ab8f845-a48ecf102ccc774f-00005dd4",
+    "IT": "4c46cf5931eb2743-30decf4e76626fb4-00005dd4",
+    "skip": true
+  },
+  "d6474ed0950fe436-c5477bb671584f62-00001e14": {
+    "label": "Progressive Scan",
+    "EN": "9a5d2e256bcd9663-fda4b0ebf5a64889-00005e14",
+    "ES": "a89eabba48d6bcde-fda4b0ebf5a64889-00005e14",
+    "FR": "74cb6f0c6d6120fd-2cb94c9eda81e40f-00005e14",
+    "DE": "cfb7833b4cbce98e-744b6490f77301d0-00005e14",
+    "IT": "454470b2776b5d77-814f58d22e604c58-00005e14",
+    "skip": true
+  },
+  "98190baf43bd86e7-79c782ebc4a74342-00001dd4": {
+    "label": "Time Attack",
+    "EN": "34077c4c33cdfd26-770ef82806861b5c-00005dd4",
+    "ES": "4f0ec6db8033196e-6de87502afb818bb-00005dd4",
+    "FR": "d07f171874e46689-748e0ef034888ffc-00005dd4",
+    "DE": "2d0a869913a11f18-da22fcb7cc4d7eb1-00005dd4",
+    "IT": "b7501f8838f4d003-6b86c368493134a9-00005dd4",
+    "skip": true
+  },
+  "ae922d4b9ab32f10-120a8d4c5bf9277-00002654": {
+    "label": "Tutorial 1",
+    "EN": "bbe134197b452ead-c071c02f14a5a917-00006654",
+    "ES": "5caed3a77c4667d6-4b92b68a00484e4c-00006654",
+    "FR": "1168e9fc53be93b0-1ebe3015f7ef7ac1-00006654",
+    "DE": "971e2dcdce3f907-54aea250537e395a-00006654",
+    "IT": "2f752396955c5fe6-987d6bc5136fa27-00006654",
+    "skip": true
+  },
+  "9481ab44c0c43f9f-3dc6bb58f3cd918a-00002654": {
+    "label": "Tutorial 2",
+    "EN": "c6e2b7c146ad48e-c9ad4d0150366e66-00006654",
+    "ES": "5dd98031f3cb0f98-3b5fad3f62d0bb2b-00006654",
+    "FR": "c2078e35d2a06bc-b2591190d2a3a09f-00006654",
+    "DE": "3f66defda8e51995-666a77d774754e84-00006654",
+    "IT": "39f9c36f0ee0b6ae-a6a81264d72b09a4-00006654",
+    "skip": true
+  },
+  "ea3138c790dbbe50-2d4eb3cfe809a144-00002654": {
+    "label": "Tutorial 3",
+    "EN": "f7b5ce7bc2ae1926-56860f7e629a030a-00006654",
+    "ES": "8b81797858eb6782-a5e43e2fd378cf83-00006654",
+    "FR": "f03e9088a078f16a-f1b8f12506b8778c-00006654",
+    "DE": "8be28706c5ccfbdc-3ae1f777afa2c25c-00002654",
+    "IT": "3d61ca1770a08284-633f7f8aca382dd7-00006654",
+    "skip": true
+  },
+  "42": {
+    "label": "Display NTSC",
+    "EN": "4b33377a1de05323-c5d4f3b73fa3956c-00006214",
+    "ES": "4d05f3223c140653-283847cd903df2a4-00006214",
+    "FR": "37e068a0d76a6d20-17352924fed49ed-00006214",
+    "DE": "ee4d05eb37ebaf66-eafeed85e4f704d0-00006214",
+    "IT": "b105f4e4eb0644f-ee22823d63c0818e-00006214",
+    "skip": true
+  },
+  "43": {
+    "label": "Warning 60Hz",
+    "EN": "54f2974be385159f-560063e76387d4a2-00005dd4",
+    "ES": "11aaee9c297d05b4-f628b2de5ba99351-00005dd4",
+    "FR": "a9cecaa18b0bd0bb-9ecdaa56f63526e1-00006214",
+    "DE": "b0526cd6e266e14c-1466497df85bf08e-00005dd4",
+    "IT": "6015436554b4a3f6-560063e76387d4a2-00005dd4",
+    "skip": true
+  },
+  "44": {
+    "label": "Menu Bonus",
+    "EN": "7dff339759fa8313-9ecdaa56f63526e1-00006214",
+    "ES": "905964cd53d89686-9ecdaa56f63526e1-00006214",
+    "FR": "9740bc72dfe97e59-f628b2de5ba99351-00005dd4",
+    "DE": "65c22ec034780333-9ecdaa56f63526e1-00006214",
+    "IT": "5c7176c84b12408f-9ecdaa56f63526e1-00006214",
+    "skip": true
+  },
+  "45": {
+    "label": "Menu Language",
+    "EN": "b5e79f7770cbeab3-400ec10f7a93ea81-00005dd4",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "46": {
+    "label": "Bonus 01",
+    "EN": "b8db0f37c8926e4e-92a74c5324a36ab3-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "47": {
+    "label": "Bonus 02",
+    "EN": "a686dec77d0ed270-83b197433e4a072-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "48": {
+    "label": "Bonus 03",
+    "EN": "6b098a081511023a-2bb146424466dc0d-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "49": {
+    "label": "Bonus 04",
+    "EN": "215c9a12c30e419c-5165ac25b8faf6c0-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "50": {
+    "label": "Bonus 05",
+    "EN": "8ed6e231d9497c32-593527f93662cb0-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "51": {
+    "label": "Bonus 06",
+    "EN": "e6b310a682aab847-db8adaa5a6cb373d-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "52": {
+    "label": "Bonus 07",
+    "EN": "df30ed71aa16af69-f8e37d5b1417894e-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "53": {
+    "label": "Bonus 08",
+    "EN": "ea902350fb4f6fc4-b74e148f73f18618-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "54": {
+    "label": "Bonus 09",
+    "EN": "8e8409c5467d9e0a-316c18e25c86ff1e-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "55": {
+    "label": "Bonus 10",
+    "EN": "206828119a6c294-d71f67a663b8d5cf-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "56": {
+    "label": "Bonus 11",
+    "EN": "509bc5a014a2e6f8-850c48c41bbdb397-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "57": {
+    "label": "Bonus 12",
+    "EN": "9b94b15fc1bfe58e-5adbd8972d6a58b-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "58": {
+    "label": "Bonus 13",
+    "EN": "d5c285d6c754efa6-a9e590027a4c1b8f-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "59": {
+    "label": "Bonus 14",
+    "EN": "a0979c277da7c80b-2591935668d0a204-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "60": {
+    "label": "Bonus 15",
+    "EN": "12bab35a0d3d56d6-29633553f3f9679-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "61": {
+    "label": "Bonus 16",
+    "EN": "29ac9b6cc805afe9-f708a13ab888316f-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "62": {
+    "label": "Bonus 17",
+    "EN": "5d4ee1f64e661dc3-4a32911f95b632ea-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "63": {
+    "label": "Bonus 18",
+    "EN": "9ad5e0dd92bdb946-a86d7eba55a49ef1-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "64": {
+    "label": "Bonus 19",
+    "EN": "c3e1001450199e90-239302acc39a42d6-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "65": {
+    "label": "Bonus 20",
+    "EN": "8ca81b3170130f48-1e8a0a63aa6da0b1-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "66": {
+    "label": "Bonus 21",
+    "EN": "ffcb4c3f360eff9e-eb4547d37586bcde-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "67": {
+    "label": "Bonus 22",
+    "EN": "983fa78c0a7b5b25-6bce9e11d3b84ef9-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "68": {
+    "label": "Bonus 23",
+    "EN": "a423c7006382b969-865b1cc67666752d-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "69": {
+    "label": "Bonus 24",
+    "EN": "6e7c523b70615dbf-6e11e2abb9961853-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "70": {
+    "label": "Bonus 25",
+    "EN": "4102b21ae9c7f480-46adba7b4bde74a-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "71": {
+    "label": "Bonus 26",
+    "EN": "28ea97dd24c5a5c7-8e1ba62f0966320e-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "72": {
+    "label": "Bonus 27",
+    "EN": "f8385d132cd6cf34-ede383de54294c51-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "73": {
+    "label": "Bonus 28",
+    "EN": "c17339c02551d0ed-ed76fc1c2ed73252-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "74": {
+    "label": "Bonus 29",
+    "EN": "6dea20f1512fdbed-ea87f349806055d7-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "75": {
+    "label": "Bonus 30",
+    "EN": "d1563518e7e71c7c-a06436513c80bdce-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "76": {
+    "label": "Bonus 31",
+    "EN": "6e2d839129b2dc1f-354d9de81fa5a7ab-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "77": {
+    "label": "Bonus 32",
+    "EN": "c44023cce4a4a7e6-a541d54ae4189119-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  },
+  "78": {
+    "label": "Bonus 33",
+    "EN": "bf6797f56c0a4aff-6a3cd6040e34cb92-00006653",
+    "ES": "",
+    "FR": "",
+    "DE": "",
+    "IT": "",
+    "skip": true
+  }
+}
