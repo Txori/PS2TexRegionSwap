@@ -26,7 +26,7 @@ The tool is generic by design, and support for additional PS2 games will be adde
 ## Compilation
 
 To build from source, run:
-```g++ -O3 -std=c++17 -Iinclude -o SotC_PALtoNTSC.exe SotC_PALtoNTSC.cpp```
+```g++ -O3 -std=c++17 -Iinclude -o PS2TexRegionSwap.exe PS2TexRegionSwap.cpp```
 
 ---
 
