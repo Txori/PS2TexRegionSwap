@@ -8,7 +8,7 @@
     and unzip it in include/nlohmann/json
 
     Compile using w64devkit (https://github.com/skeeto/w64devkit):
-    g++ -O3 -std=c++17 -Iinclude -o SotC_PALtoNTSC.exe SotC_PALtoNTSC.cpp
+    g++ -O3 -std=c++17 -Iinclude -o PS2TexRegionSwap.exe PS2TexRegionSwap.cpp
 */
 
 #include <iostream>
