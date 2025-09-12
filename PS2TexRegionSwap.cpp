@@ -197,20 +197,23 @@ void loadJsonMapping(const std::string& filename) {
         std::string ntsc = it.key();
         TextureMapping tm;
 
-        // read description if exists
-        if (it.value().contains("label")) {
-            tm.description = it.value()["label"];
+        // optional label
+        if (it.value().contains("label") && !it.value()["label"].is_null()) {
+            tm.description = it.value()["label"].get<std::string>();
         }
 
-        // read skip flag if exists
-        if (it.value().contains("skip")) {
+        // optional skip flag
+        if (it.value().contains("skip") && !it.value()["skip"].is_null()) {
             tm.skip = it.value()["skip"].get<bool>();
         }
 
-        // read language mappings
+        // language mappings (ignore empty values)
         for (auto& lang : {"EN", "ES", "FR", "DE", "IT"}) {
-            if (it.value().contains(lang)) {
-                tm.langs[lang] = it.value()[lang].get<std::string>();
+            if (it.value().contains(lang) && !it.value()[lang].is_null()) {
+                std::string val = it.value()[lang].get<std::string>();
+                if (!val.empty()) {
+                    tm.langs[lang] = val;
+                }
             }
         }
 
